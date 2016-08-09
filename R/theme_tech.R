@@ -11,8 +11,8 @@
 
 theme_tech <- function(theme="airbnb", tech_key = list(
   payoff = list(
-    family_title="ProximaNova-Bold"
-    , family_text = "ProximaNova-Regular"
+    family_title="Proxima Nova Rg"
+    , family_text = "Proxima Nova Lt"
     , colour_title = "#002882"
     , colour_text = "#002882"),
   airbnb = list(
