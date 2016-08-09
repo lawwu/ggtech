@@ -11,7 +11,7 @@
 
 
 scale_fill_tech <- function(theme="airbnb", tech_key = list(
-  payoff = c('#002882', '#00c3ff', '#f61f89', '#fe7f0e'),
+  payoff = c('#002882', '#00c3ff', '#f61f89', '#fe7f0e', "#f5d90d", "#7bc732", "#22272c", "#72767a", "#d5d7d9"),
   airbnb = c("#FF5A5F", "#FFB400", "#007A87",  "#FFAA91", "#7B0051"),
   facebook = c("#3b5998", "#6d84b4", "#afbdd4", "#d8dfea"),
   google = c("#5380E4", "#E12A3C", "#FFBF03", "#00B723"),
